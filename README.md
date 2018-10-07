@@ -1,4 +1,4 @@
-
+#autosetttings for mc.qplay.cz
 Aimbot Range 4.4
 Aimbot TurnSpeed 2.0
 Aimbot FOV 180.0
@@ -278,5 +278,4 @@ WaterSpeed Speed 1.2
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
-QPlay1.txt
-Zobrazuje se QPlay1.txt.
+chat Settings made by Kesytam01 [KLL] | 07.10.2018
