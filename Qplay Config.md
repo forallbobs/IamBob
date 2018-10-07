@@ -278,4 +278,4 @@ WaterSpeed Speed 1.2
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
-chat Settings made by Kesytam01 [KLL] | 07.10.2018
+chat Qplay config vy Kesytam01| 07.10.2018
