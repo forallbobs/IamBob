@@ -31,7 +31,7 @@ AutoArmor ItemDelay 0
 AutoArmor Hotbar true
 AutoClicker MaxCPS 8
 AutoClicker MinCPS 5
-AutoClicker Right true
+AutoClicker Right false
 AutoClicker Left true
 AutoClicker Jitter false
 AutoLeave Health 8.0
