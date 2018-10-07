@@ -154,8 +154,8 @@ ItemTeleport Mode New
 ItemTeleport ResetAfterTP true
 ItemTeleport Button Middle
 Kick Mode Quit
-KillAura MaxCPS 15
-KillAura MinCPS 10
+KillAura MaxCPS 13
+KillAura MinCPS 9
 KillAura HurtTime 7
 KillAura Range 4.5
 KillAura RangeSprintReducement 0.4
