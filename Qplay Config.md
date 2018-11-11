@@ -29,8 +29,8 @@ AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 0
 AutoArmor Hotbar true
-AutoClicker MaxCPS 8
-AutoClicker MinCPS 5
+AutoClicker MaxCPS 10
+AutoClicker MinCPS 6
 AutoClicker Right false
 AutoClicker Left true
 AutoClicker Jitter false
@@ -278,4 +278,4 @@ WaterSpeed Speed 1.2
 Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
-chat Qplay config vy Kesytam01| 07.10.2018
+chat Qplay config by Kesytam01| 07.10.2018
